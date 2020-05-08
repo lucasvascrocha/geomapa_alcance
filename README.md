@@ -6,6 +6,6 @@ Devido a necessidade da empresa em chegar a um preço médio do produto a ser la
 
 # Sobre o desenvolvimento
 
-Foram utilizadas coordenadas geográficas de cidades da região sudeste e calculada suas respectivas distâncias do centro distribuidor do produto. O código foi desenvolvido em python e sua interatividade permite o gerenciamento de futuras atuações do campo de marketing como: seleção de cidades ou regiões por distância, agregar anotações por cidades, dentre outras funcionalidades que auxiliarão estas áreas na gestão. A apresentação do código foi feita em jupyter notebook.
+Foram utilizadas coordenadas geográficas de cidades da região sudeste e calculada suas respectivas distâncias do centro distribuidor do produto. O código foi desenvolvido em python e sua interatividade permite o gerenciamento de futuras atuações do campo de marketing como: seleção de cidades ou regiões por distância, agregar anotações por cidades, dentre outras funcionalidades que auxiliarão estas áreas na gestão. A apresentação do código foi feita em jupyter notebook!
 
 ![Mapa](https://github.com/lucasvascrocha/mapa_ternium/blob/master/mapa.png)
