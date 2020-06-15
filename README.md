@@ -2,7 +2,7 @@
 ## Uso de dados geográficos para a construção de um mapa interativo que auxilia na tomada de decisão da empresa
 
 **Abstract:**
-Devido a necessidade da empresa em chegar a um preço médio do produto a ser lançado na região foi desenvolvido este mapa que demosntra, através de cores, a distância média em quilômetros entre a empresa e as cidades ao entorno e seus principais concorrentes, visto que a questão logística seria a principal influenciadora do preço deste produto em questão. Dessa forma pode-se ter uma ideia, de forma geral, da localidade do público alvo e com isso uma previsão do direcionamento de produção para por fim chegar a um preço médio.
+Devido a necessidade da empresa em chegar a um preço médio do produto a ser lançado na região foi desenvolvido este mapa que demonstra, através de cores, a distância média em quilômetros entre a empresa e as cidades ao entorno e seus principais concorrentes, visto que a questão logística seria a principal influenciadora do preço deste produto em questão. Dessa forma pode-se ter uma ideia, de forma geral, da localidade do público alvo e com isso uma previsão do direcionamento de produção para por fim chegar a um preço médio.
 
 # Perguntas a serem respondidas
 
